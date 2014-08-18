@@ -12,3 +12,5 @@ The file will have to be run in Administrator mode - Right-click and select "Run
 
 <strong>How to configure hotspot</strong><br>
 Edit the Name and Password in the file.
+
+You'll have to manually turn on internet connection sharing in Network Connections before you can access the internet on connected devices.
