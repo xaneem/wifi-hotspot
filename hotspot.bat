@@ -18,8 +18,8 @@ echo.
 echo You may change network name and password 
 echo by Right-clicking this file, and select Edit.
 echo.
-echo Default Name: Private
-echo Default Password: 12345678
+echo Default Name: %Name%
+echo Default Password: %Password%
 echo.
 :ask 
 set INPUT=
