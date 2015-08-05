@@ -1,16 +1,17 @@
-Portable Hotspot
-================
+#Portable Hotspot
 
-A simple MS-DOS batch file to create a portable wireless hotspot on Windows.
+A simple batch file/shell script to create a portable wireless hotspot on Windows/Linux.
 
-Most laptop wifi modules have hosted network support built-in. But Windows does not natively support it.
-This batch file will make setting up hotspots faster, at zero cost and minimal effort.
+Most laptop wifi modules have hosted network support built-in. This script will make setting up hotspots faster, at zero cost and minimal effort.
 
-<strong>How it works</strong><br>
+##How it works (Windows)
 It calls netsh start hosted network command.
-The file will have to be run in Administrator mode - Right-click and select "Run as Administrator"
 
-<strong>How to configure hotspot</strong><br>
-Edit the Name and Password in the file.
+The file will have to be run in Administrator mode - Right-click and select "Run as Administrator". You can edit the name and password in the file.
 
 You'll have to manually turn on internet connection sharing in Network Connections before you can access the internet on connected devices.
+
+##Linux
+Added by [SpEcHiDe](https://github.com/SpEcHiDe)
+
+Uses [https://github.com/oblique/create_ap](https://github.com/oblique/create_ap)
