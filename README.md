@@ -12,6 +12,5 @@ The file will have to be run in Administrator mode - Right-click and select "Run
 You'll have to manually turn on internet connection sharing in Network Connections before you can access the internet on connected devices.
 
 ##Linux
-Added by [SpEcHiDe](https://github.com/SpEcHiDe)
 
 Uses [https://github.com/oblique/create_ap](https://github.com/oblique/create_ap)
